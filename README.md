@@ -1,5 +1,7 @@
 # HW1
 
+NOTE: Question 3 is to fill out the [following survey](https://docs.google.com/forms/d/e/1FAIpQLSen8dOnRHbcDrJP5JMhNgMcv49-LPkxLJgDfDShRdjHw3Pddg/viewform?usp=sf_link).
+
 ## Getting Started
 All the homeworks are distributed as Jupyter notebooks. Follow these instructions to get everything set up.
 
